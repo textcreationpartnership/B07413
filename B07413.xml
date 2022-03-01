@@ -1,0 +1,1943 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soothing of proverbs: with only true forsooth. In two parts. / By B.N. Gent..</title>
+            <author>Breton, Nicholas, 1545?-1626?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07413</idno>
+            <idno type="STC">STC 3698.5</idno>
+            <idno type="STC">ESTC S91201</idno>
+            <idno type="EEBO-CITATION">60449137</idno>
+            <idno type="OCLC">ocm 60449137</idno>
+            <idno type="VID">181224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181224)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2181:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Soothing of proverbs: with only true forsooth. In two parts. / By B.N. Gent..</title>
+                  <author>Breton, Nicholas, 1545?-1626?</author>
+                  <author>Wright, John, d. 1658. printer.</author>
+               </titleStmt>
+               <extent>[23] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright, and are to be sold at his shop without Newgate at the signe of the Bible.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1626..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Head-piece, initials.</note>
+                  <note>Signatures: A⁸, B⁴.</note>
+                  <note>Attributed to Nicholas Breton by STC (2nd ed.).</note>
+                  <note>The 2d pt. has special t.-p. (on A₇): Soothing of proverbs: with only true forsooth. The second part. By B.N. ... London, Printed for I. Wright, 1626.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proverbs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:181224:1"/>
+                  <pb facs="tcp:181224:1"/>
+                  <p>SOOTHING OF PROVERBS: With only <hi>True forſooth.</hi>
+                  </p>
+                  <p>In two Parts.</p>
+                  <p>By <hi>B. N.</hi> Gent.</p>
+                  <p>LONDON, rinted for <hi>Iohn Wright,</hi> and are to be ſold at his ſhop without Newgate at the ſigne of the Bible.</p>
+                  <p>1626.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:181224:2"/>
+                  <pb facs="tcp:181224:2"/>
+                  <head>To the Reader.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>Oothing and Croſsing are two humours more trou<g ref="char:EOLhyphen"/>bleſome than profitable, The one troubles the wiſe that loue no flatterie, and the other fooles that loue to be flattered. What you are I know not, and there<g ref="char:EOLhyphen"/>fore as you finde your ſelfe, ſo fit your ſenſe: And yet if you will not ſcorne a fooles counſell, be ſilent ra<g ref="char:EOLhyphen"/>ther than croſſe, for feare of quar<g ref="char:EOLhyphen"/>rels; and rather learne ſilence among
+<pb facs="tcp:181224:3"/> the wiſe, than ſooth their ſayings in their hearing, for their eares are iea<g ref="char:EOLhyphen"/>lous ouer their wits. But leſt I make a great entry to a little houſe, leauing what you reade to your leiſure, and the liking to your capacitie, I reſt.</p>
+                  <closer>
+                     <signed>B. N.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="dialogue">
+                  <pb facs="tcp:181224:3"/>
+                  <head>SOOTHING OF Prouerbs: WITH <hi>Only True forſooth.</hi>
+                  </head>
+                  <sp>
+                     <speaker>Prouerbe.</speaker>
+                     <p>
+                        <seg rend="decorInit">L</seg>Oue is a rauiſhing humour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sooth.</speaker>
+                     <p>True, or elſe ſo many Virgins would not loſe their maiden-heads.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Prou.</speaker>
+                     <p>Beauty is a bewitching obiect.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sooth.</speaker>
+                     <p>True, or elſe men would not be ſo mad vpon it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>All things are common among friends.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>Then wiues muſt be put in as well as wenches.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Nothing is hard to a willing minde.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if there be hope in the buſineſſe.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:4"/>
+                     <speaker>P.</speaker>
+                     <p>Beware the witch.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for ſhe is a deuill incarnate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Euery man loues himſelfe beſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, or elſe he lacks vnderſtanding.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Too much of any thing is good for nothing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for the quantitie marres the qualitie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A valiant minde feares no fortune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he knowes tis but a fiction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Young wenches make old wrinches.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when claſping of the breſt breeds the cricke in the backe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Like will to like.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, that makes Lads goe to Laſſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A baudy-houſe is an earthly hell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for the deuill ſtands at the doore to bring his Gueſts into their roome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>No Play is without a foole.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, nor <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ithout many to looke vpon them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Quarrelling makes the Surgeons harueſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when out of a little ſalue he gets a great deale of money.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Phyſitians are coſtly viſiters.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for they ſeldome come but for their fee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>An Apothecaries ſhop is ill in a mans belly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for if the ſtomacke be not kept cleane, it will ſtinke of the medicines.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Sexton is a fatall Muſitian.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for his muſicke is a meſſage of death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>When the Cat is away, the Mouſe may play.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if ſhe come not in the trap.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Contraries can hardly agree together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, that makes May and Ianuary ſo farre aſunder.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:4"/>
+                     <speaker>P.</speaker>
+                     <p>Sweet meat will haue ſowre ſauce.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, or elſe it would be too luſhious.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Trowling eyes make rowling wits.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when feminine wags make maſculine wan<g ref="char:EOLhyphen"/>tons.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Euery thing hath an end.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, either whereto, or whereof.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A gay foole is an idle picture.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it is but loſt time to looke vpon it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Airie bodies haue light braines.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>Or elſe mad men would not be ſo fantaſticke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A ſcolding woman is a troubleſome creature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and eſpecially to her husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Many men goe backward thorow the world.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, or elſe Rope-makers and Weauers could not get their liuings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Ieſter and a Pandar are couſen varmins in villany.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and if both be in one, he will breed Cuckold<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> out of crie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A defeated armie is a lamentable ſpectacle.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when Iewes make hauocke of Chriſtians.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Pouertie breeds peace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for there is nothing to goe to warre withall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Peace breeds plentie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when labour brings profit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Plentie breeds pride.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when money muſt purchaſe honour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Pride breeds ambition.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when Beggars will be Kings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Ambition breeds warres.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when principalitie will no equalitie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Warre breeds pouertie.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:5"/>
+                     <speaker>S.</speaker>
+                     <p>True, where a long ſiege makes a poore Campe, and a penurious Citie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Pouertie breeds peace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when the Souldiers muſt riſe for want of pay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Pirates life is in two great perils.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for if he ſcape drowning, he is in danger of hanging.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Tinkers budget is full of neceſſary tooles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he can mend a kettle, and picke a locke with them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Tailors ſhreds are worth the cutting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for ſometimes they purchaſe lands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A widow is dangerous to meet withall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for commonly ſhe is either poore, or proud.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>An ill wind that blowes no man good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it may eaſe my belly, that offends your noſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Age and wedlocke tames man and beaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet they will to the buſineſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Money and a Miſtreſſe will make a Souldier runne thorow fire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet if he be burned, he had better haue miſſed them both.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Better a little in the morning, than nothing all day after.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, ſuppoſing to be good, or elſe better ſpared.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Experience is the Miſtreſſe of fooles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when a Prodigall feeles his penurie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Art is the Schoole-miſtreſſe of Nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when Reaſon guides Iudgement.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Learning is an ornament to Nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, eſpecially where the ſtudie is gracious.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:5"/>
+                     <speaker>P.</speaker>
+                     <p>Familiaritie breeds contempt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, among fooles and Beggars.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A knaue and a foole neuer take thought.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for if the one cannot, the other will not take thought.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Wares commonly are deareſt at their firſt comming.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet Carriers Titts are hired at a ſmall rate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Rogues Wardrobe is a harbour for a Louſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but a Louſe dares harbour where a Rogue dares not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Flea is a pretty foole, that feeds only on ſweet bloud.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and commonly makes her diet of the daintieſt creatures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Ingratitude makes a true Machauilian.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and ſuch a one as no villaine can match him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Burnt children dread the fire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet old fooles will be raking in the aſhes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Darkſome miſts are beſt for Theeues.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when the deuill hides the Gallowes while they are plotting for the Rope.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Fooliſh Punkes liue euer in feare.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for the name of a Conſtable frights them with Bridewell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>An vnlawfull gaines makes an vnquiet conſcience.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and eſpecially when the cries of the poore are in the eares of the rich.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The falling out of louers may be the renewing of loue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when patience hath ouer-ruled paſſion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Sleepe is the pride of eaſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for then both bones and ſenſes are at reſt.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:6"/>
+                     <speaker>P.</speaker>
+                     <p>Well warn'd is halfe arm'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for lacke of care may be loſſe of life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A tall trencher-man had not need be a poore man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, leſt his belly be too ſtrong for his purſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Tennis and Tabacco are coſtly exerciſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when ſweat and ſmoake brings many a purſe into a conſumption.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Fire and water haue no mercy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, with mad men and drunkards.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The more the merrier.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he that liues alone is like a dogge in a kennell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>One hand is enough in a purſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and too many if it be of a pick-purſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>To day for thee, to morrow for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for euery day is not for euery mans humour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Better a cruſt than no bread.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for if it be hard for the teeth, it will be ſoft in the pottage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>He runs farre that neuer turnes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for then he will out-run the Conſtable.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Salt ſauours all things.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but the better with pepper.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Soft fire makes ſweet malt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for a haſtie fire may burne downe the furnace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>He that goes ſoftly, goes eaſily.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for elſe a man would goe faſter than a Snaile when he hath the gout in his feet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>He that lookes high, may haue a chip in his eye.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if he ſtand vnder a tree that is lopping.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Two faces vnder a hood.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, Tis meere hypocriſie.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:6"/>
+                     <speaker>P.</speaker>
+                     <p>The foole marres the play.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when a bitter ieſt angers the Audience.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Cuekold is a horned man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but he hides them like a Snaile.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Wittoll is a note of a coward.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he is afraid of his wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Pride will haue a fall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and though it be from the Gallowes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Thought is free.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, till it come to words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Law is coſtly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, in delayes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Time is pretious.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, in his right vſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Ill weeds grow faſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and therefore need the more weeding.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Pitie ſpoiles a Citie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if the Magiſtrates be fooles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>None more blinde than he that will not ſee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for his will takes away his power.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Drunkard is worſe than a beaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for a beaſt can ſtand, and he cannot.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Lier is worſe than a Theefe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he may ſteale away his good name.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The neerer the Church, the further from God.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when the Alehouſe keepes the pariſh from praier.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Early vp and neere the neere.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when will wants wit in the buſineſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Faire words make fooles faine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for wiſe men know they are but wind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Had I wiſt was a foole.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:7"/>
+                     <speaker>S.</speaker>
+                     <p>True, for preuention is a proofe of wiſdome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A friend is like a Phoenix.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for they are more talked of than knowne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>There are more maids than Mawkin.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for elſe how ſhould Bachelers doe for wiues?</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Labour to no purpoſe is as ill as idleneſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if a man want his tooles to goe to worke withall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Neceſſitie hath no Law.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for <hi>Forma pauperis</hi> troubles the Court.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Idleneſſe is the root of Ignorance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and commonly the tree makes the Gallowes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Time trieth all things.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and moſt of them to be nothing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The euening proues the day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, ſo doth a mans death his life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>One Tale is good till another be told.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for the laſt commonly puts downe the firſt.</p>
+                  </sp>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:181224:7"/>
+                  <p>SOOTHING OF PROVERBS: With only <hi>True forſooth.</hi>
+                  </p>
+                  <p>The ſecond Part.</p>
+                  <p>By <hi>B. N.</hi> Gent.</p>
+                  <p>LONDON, Printed for <hi>Iohn Wright,</hi> and are to be ſold at his ſhop without Newgate at the ſigne of the Bible.</p>
+                  <p>1626.</p>
+               </div>
+            </front>
+            <body>
+               <div type="dialogue">
+                  <pb facs="tcp:181224:8"/>
+                  <pb facs="tcp:181224:8"/>
+                  <head>The ſecond part.</head>
+                  <sp>
+                     <speaker>Prouerbe.</speaker>
+                     <p>
+                        <seg rend="decorInit">W</seg>Iſhers and woulders are neuer good houſholders.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sooth.</speaker>
+                     <p>True, for they feed their families with ſentences.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The tide tarrieth no man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and therefore it is good to to watch it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>An old babe is no childe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if he be paſt the dugge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Error breeds idolatrie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, elſe would not ſooles worſhip babies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Patience keepes the wits in temper.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for impatience maketh men mad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The Nightingale and the Cuckoe ſing both in one moneth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but there is great difference in their notes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Trauellers tales are hardly beleeued.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, becauſe they forget themſelues in their diſ<g ref="char:EOLhyphen"/>courſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>No man is wiſe at at all times.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and he is happy that is wiſe at any time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Fooles</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:9"/>
+                     <speaker>P.</speaker>
+                     <p>Fooles are fortunate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, or elſe they would not be ſo rich.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A curſt Cow hath ſhort hornes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, or elſe ſhe would goare the Milke-maid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A kennell is fit for a dogge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet fiſting Curres lie on faire laps.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Snaphaunces are moſt fit for Piſtols.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for if they be too quicke, they may be ill in an houſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>He hath need of mutton, that dips his bread in the wooll.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he may hap better be faſting, than take a taſte of it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A maid and a virgin is not all one.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, the one is a childe, the other a woman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Euery virgin is a maid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but euery maid is not a virgin.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Honeſtie is ill for thriuing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, only among knaues.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Poetrie is too full of fictions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and therefore the leſſe eſteemed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The foole is wiſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when he makes fooles of wiſe men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Iacke an Apes is no Gentleman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet he will haue a gay coat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Beggery is a wonderfull cunning trade.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it getteth money for words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Robbery is a very cheape purchaſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it coſteth but a peny halter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Lechers and mad men haue two great kinds of ex<g ref="char:EOLhyphen"/>treme weakneſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, the one in their backs, the other in their brains.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:9"/>
+                     <speaker>P.</speaker>
+                     <p>Fighting is euery way dangerous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, either for killing or hanging.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A knaue may be an honeſt man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if it be but againſt his will.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Money is a maruellous kinde of metall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it plaies the deuill in the world.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Hopes are very ſtrong imaginations.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but when they hit not, they make weake hearts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Lies haue ſtrange effects.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for they make truth miſtruſted.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Tabacco is like wood.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it conſumes in ſmoake.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Wyermen are fiſhes enemies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for they make hookes for their noſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Iuglers and leſters are cozen varmins to the knaue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for they commonly come from the queane.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Piper and Tinker make a bad peece of muſickc.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for they ſeldome agree but in drinke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Two to one is ods.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet a man and his wife are one.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Cozeners are the worſt couſins.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for they will deceiue their fathers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Greatneſſe and goodneſſe goe not euer together<g ref="char:punc">▪</g>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for then the deuill would not be ſo wicked.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Wine and wenches empty mens purſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and fill the body with diſeaſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Care is more coſtly than comfortable.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when a man is troubled with a ſcold.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Friendſhip is doubtfull in time of diſtreſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for kindneſſe may proue coſtly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Thrift is the commendation of wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for beggerie is a baſe profeſſion.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:10"/>
+                     <speaker>P.</speaker>
+                     <p>He is wiſe that can hold his peace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if that he be not tongue-tied.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Wealth is a bleſſing vnto the wiſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if it be not hurtfull to the ſoule.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Coyneſſe is a fooliſh niceneſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when a wench will ſay ſhe cannot dance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>He that is rich is wiſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if he haue wiſdome to gouerne it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Faire women are delightfull obiects.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if they be not proud.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Wantonneſſe is the way to wickedneſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when luſt goes for loue among the youthfull.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Age claimes the reuerence of time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when a horſe-ſtealer is hanged before a cut<g ref="char:EOLhyphen"/>purſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Youth is the deſperate time of nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, or elſe there would not be ſo many ſwagge<g ref="char:EOLhyphen"/>rers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Phyſicke is good for the ſicke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it is a fore-ſtaller of death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Quackſaluers are ingroſſers of diſeaſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for they will take vpon them all cures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Great ſpenders are but bad lenders.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True<g ref="char:punc">▪</g> for they will hardly pay that they owe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Euill natures are no good companions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for their conditions are infectious.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Water is a cleanly element.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, till it meet with vncleanneſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Come ſleepe with me, ſeemes to be a ſweet word in a whores mouth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but he that awaketh with the pox, will curſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> her for her kindneſſe.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:10"/>
+                     <speaker>P.</speaker>
+                     <p>Bugge-beares fright none but fooles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for wiſe men know a vizar from a face.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Painters are agents for Idolatrie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when fooles worſhip Images.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A witch is a fit wife for a Coniurer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and the deuils chapell for their Church.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Three trees are the Hangmans farme.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and his harueſt is moſt in lowſie raggs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>An hypocrite is the deuils Chaplaine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for his heart ſaith ſeruice in hell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>He that reads that he vnderſtandeth not, wrongs his wit with his tongue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, that makes ſo many Latine-aſſes make their praiers to pictures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Patience is a plaiſter for all diſeaſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but it is often long a healing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>All brazen worke is good but in faces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it makes them as bold as beggers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Sinne is the wound of ſenſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when the ſoule is troubled with the fleſh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Feare is the fruit of ſinne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it rotteth the ſoule of the reprobate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>It is neuer long which commeth at laſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for if hoped for, it is welcome; if feared, it then commeth too ſoone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Campe is the glory of the warre.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but peace maketh a braue Court and a bleſ<g ref="char:EOLhyphen"/>ſed Countrey.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Out of ſight out of minde.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for a man ſhal be no ſooner dead but forgotten.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Faſting ſhould goe before Feaſting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for then one may the better doe it.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:11"/>
+                     <speaker>P.</speaker>
+                     <p>Reſt after labour is ſweet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for idleneſſe vpon idleneſſe is eaſeleſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Long trauels make weary voyages.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when they get little for their labour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Farre trauellers doe know many things.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and many that were better vnknowne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Good company is a waggon in the way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for its tedious to trauell alone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A baudy houſe is an earthly hell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for the houſe is neuer without a deuill.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>An Inne is the hope of gueſts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for without them the Hoſt may pull downe his ſigne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Tauerne is the bloud-letter of the grape.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he will draw it to the laſt drop.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Words are but winde.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when there is no intent of performance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>An Alehouſe is the beggars ruine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for there he ſpendeth the profit of his profeſ<g ref="char:EOLhyphen"/>ſion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Theefe is a reſolute Raſcall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he hath ſet vp his reſt to be hangd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Women are neceſſary euils.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and it is pitty they ſhould be ſo.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Pen and Inke is wits plough.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet ſometime it vndoeth the Plough<g ref="char:EOLhyphen"/>man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Words are thoughts actors.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, yet ſometimes they vndoe the players.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Robin Goodfellow was a ſtrange man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, among wenches that kept not their houſes cleane.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:11"/>
+                     <speaker>P.</speaker>
+                     <p>Will Sommer was a ſhrewd foole.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for he made an Aſſe of many a faire beaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Two dayes are moſt dreadfull to the wicked.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, the day of death, and the day of doome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The wicked are for the moſt part fearfull.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for the guilt of conſcience frighteth the ſoule.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Enough is as good as a feaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for what is more than enough is not good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Too much of one thing is good for nothing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when the quantitie ſpoileth the qualitie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Where the hedge is low, it is eaſily trodden downe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when honeſtie ruleth not the will.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>It is eaſie to finde a ſtone to throw at a dogge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, inferiours are eaſily wronged.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Sleepe is the pride of eaſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet too much will ſpoile the ſpirit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Contraries cannot agree.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for an ill tongue will kill a quiet heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The nobleſt life is in warres.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, where valour may ſhew mercy, and wiſdome may gaine honour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A woman is the weaker veſſell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for the weakeſt goeth to the wall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Haſtie climbers haue oft ſudden falls.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when they make more haſte downe than vp.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Honeſtie is an excellent and pretious vertue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for what is rare is pretious.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Pride is without profit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it ſpends much to gaine ſcorne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Money is a great maſter in a market.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for without him there is but cold trading.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:12"/>
+                     <speaker>P.</speaker>
+                     <p>A Cuckoe is a moſt vnkinde creature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for ſhe kills the Sparrow hatcht her young.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Pelican is the kindeſt bird.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for ſhe wounds her breſt to feed her young.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A young Seruingman an old beggar.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when youth forgets that age will come.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Wit and learning are faire vertues.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when humilitie is ioyned with vnderſtanding</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The richeſt men haue not euer moſt wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for wealth is no cauſe of wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Honeſtie is better than riches.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for honeſtie is honeſtie ſtill.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>It is good to make hay while the Sunne ſhines.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True for in rainie weather there is more paines, and yet to leſſe purpoſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Money is a great comfort.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, if it be well vſed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Like will to like.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when theeues and whores meet at the gal<g ref="char:EOLhyphen"/>lowes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Tradeſmen liue vpon lacke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for were there no lacke, they could not liue for want of trading.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A Cobler deales with All.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for without Aule he is no body.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>All is not gold that gliſters.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, nor euery man the ſame he ſeemes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>It is hard to make mutton of a Sow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for Art cannot eaſily change what is inbred by nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Tabacco is a great purger.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it purgeth both the head and the purſe.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:181224:12"/>
+                     <speaker>P.</speaker>
+                     <p>Too much of one thing is good for nothing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for too much money will make a man mad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>All is not got that is put into the purſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when a man ſels his friend for a trifle.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Kiſſing goes by fauour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and that makes deſert goe a begging.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>A friend in the Court is better than a penny in the purſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, but both together is beſt of all.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The end proueth the act.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for many large promiſes haue ſmall perfor<g ref="char:EOLhyphen"/>mances.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>It is good to be merry and wiſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for mirth without meaſure is meere madneſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Bought wit is beſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for it is beſt remembred.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Many things are beſt learned without experience.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for you may chance pay more for your ſchoo<g ref="char:EOLhyphen"/>ling than your learning is worth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>There is a time for all things.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for after follie comes repentance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Many a dogge is hangd for his skinne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and many a man killd for his purſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>Delayed hope is grieuous to the heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, when feare oppreſſeth the ſoule.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>It is an ill thing that is good for nothing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and yet many ſuch things there be.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>That is well ſpoken that is well taken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, for then the hearers are pleaſed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>P.</speaker>
+                     <p>The longeſt day will haue an end.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S.</speaker>
+                     <p>True, and therefore we muſt hope and feare.</p>
+                  </sp>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
